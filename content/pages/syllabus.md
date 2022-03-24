@@ -78,9 +78,9 @@ Polyakov, A. M. _Gauge Fields and Strings. Contemporary Concepts in Physics_. Vo
 
 Lust, D., and S. Theisen. _Lectures on String Theory_. Lecture notes in physics, 346. New York, NY: Springer-Verlag, 1989. ISBN: 9780387518824.
 
-M. Peskin's TASI lectures: Introduction to String Theory and Superstring Theory II (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.5 MB](http://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-4251.pdf))
+M. Peskin's TASI lectures: Introduction to String Theory and Superstring Theory II ([PDF - 5.5 MB](http://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-4251.pdf))
 
-P. Ginsparg's Applied Conformal Field Theory lectures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://arxiv.org/PS_cache/hep-th/pdf/9108/9108028v1.pdf))
+P. Ginsparg's Applied Conformal Field Theory lectures ([PDF](http://arxiv.org/PS_cache/hep-th/pdf/9108/9108028v1.pdf))
 
 A. Uranga's Lecture Notes for a [Graduate Course in String Theory](http://members.ift.uam-csic.es/auranga/firstpage.html) at the Universidad Autonoma de Madrid
 
