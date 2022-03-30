@@ -4,6 +4,7 @@ description: Lecture notes on string theory, the bosonic string, superstrings, a
   D-branes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-821-string-theory-fall-2008/74a1f200767f0e321a50d878f7dc41e0_lecture02.pdf
 file_type: application/pdf
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 02: String theory summary continued'
 uid: 74a1f200-767f-0e32-1a50-d878f7dc41e0

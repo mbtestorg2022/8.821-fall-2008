@@ -5,6 +5,7 @@ description: Lecture notes on scale and conformal invariance in field theory, em
   representation theory.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-821-string-theory-fall-2008/a9489a562dc17c13491aab189b92f012_lecture09.pdf
 file_type: application/pdf
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 09: Preview of Strings in N = 4 SYM; Hierarchy of Scaling dimensions;
   Conformal Symmetry in QFT'
